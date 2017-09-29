@@ -9,7 +9,7 @@ Hacking
 
 To start prototyping with this sample client:
 
-1. kytos napps install viniciusarcanjo/kyslacker-client
-2. kytos napps enable viniciusarcanjo/kyslacker-client
+1. kytos napps install viniciusarcanjo/kyslacker_client
+2. kytos napps enable viniciusarcanjo/kyslacker_client
 
 Go to kytos napps dir and start hacking!
